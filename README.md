@@ -11,7 +11,7 @@ A Mirror For TencentOpenAPI
 To integrate TencentOpenAPI-Mirror into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
-pod 'TencentOpenAPI-Mirror'
+pod 'TencentOpenAPI-Helfy' :git => 'https://github.com/helfyz/TencentOpenAPI-Mirror.git', :tag=> 'master'
 ```
 
 # How to use
