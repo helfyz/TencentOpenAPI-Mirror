@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "SDKDef.h"
-
+#import "TencentOpenApiUmbrellaHeader"
 @protocol TencentSessionDelegate;
 @protocol TencentLoginDelegate;
 @protocol TencentApiInterfaceDelegate;
