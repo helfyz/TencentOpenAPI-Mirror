@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name                  = 'TencentOpenAPI-Helfy'
-  s.version               = '3.5.9'
+  s.version               = '3.5.14'
   s.summary               = 'A Mirror For TencentOpenAPI'
   s.homepage              = 'https://wiki.connect.qq.com'
   s.ios.deployment_target = '7.0'
